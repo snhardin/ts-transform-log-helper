@@ -7,6 +7,10 @@
   },
   "author": "Scott Hardin",
   "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snhardin/ts-transform-log-helper"
+  },
   "devDependencies": {
     "@types/node": "^14.0.27",
     "tslib": "^2.0.1",
