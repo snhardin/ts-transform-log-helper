@@ -1,0 +1,21 @@
+{
+  "name": "ts-transform-log-helper",
+  "version": "0.0.1",
+  "description": "TypeScript transformer compatible with ttypscript that includes a couple helpers for getting function name and file name. Useful for logging.",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Scott Hardin",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "@types/node": "^14.0.27",
+    "tslib": "^2.0.1",
+    "typescript": "^3.9.7"
+  },
+  "peerDependencies": {
+    "typescript": "^3.9.7",
+    "ttypescript": "^1.5.10"
+  },
+  "main": "index.js",
+  "types": "index.d.ts"
+}
